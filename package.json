@@ -1,0 +1,16 @@
+{
+  "name": "node-csv-parse",
+  "version": "1.0.0",
+  "description": "parse a csv file and save in mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khemchand Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "fast-csv": "^1.0.0",
+    "mongoose": "^4.4.1"
+  }
+}
